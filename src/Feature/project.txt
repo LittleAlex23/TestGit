@@ -1,0 +1,6 @@
+public class Project{
+	private String pname;
+	public Project(String name){
+		this.name = name;
+	}
+}
